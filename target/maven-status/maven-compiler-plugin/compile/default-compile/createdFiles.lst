@@ -1,0 +1,12 @@
+com\exceptions\InvalidFirstNameException.class
+com\exceptions\InvalidPhoneNumberException.class
+com\example\JSONOperations.class
+com\example\AddressBook.class
+com\example\App.class
+com\example\CSVOperations.class
+com\exceptions\InvalidLastNameException.class
+com\example\AddressBooksManager.class
+com\example\Contact.class
+com\example\JSONOperations$1.class
+com\exceptions\InvalidEmailException.class
+com\validator\Validator.class
